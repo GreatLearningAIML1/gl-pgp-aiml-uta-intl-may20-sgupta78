@@ -34,7 +34,7 @@ This work reflects my ability to **develop, optimize, and deploy AI models**, ap
 
 ### **4️⃣ Deep Learning – Image Classification with CNNs**  
 📌 Developed a **Convolutional Neural Network (CNN)** for image recognition.  
-📌 Used **TensorFlow & Keras** to classify images with **92% accuracy**.  
+📌 Used **TensorFlow & Keras** to classify images with **92% accuracy**.   
 
 ---
 
